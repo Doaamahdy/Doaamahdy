@@ -84,6 +84,5 @@
 
 <br clear="both">
 
-<img align="right" height="" src=""  />
 
 ###
