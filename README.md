@@ -81,10 +81,3 @@
 <img src="https://raw.githubusercontent.com/Doaamahdy/Doaamahdy/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
-<img align="right" height="" src=""  />
-
-
-
-###
